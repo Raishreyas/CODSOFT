@@ -110,7 +110,8 @@ iris-classifier/
 
 ## 🖼️ Screenshot
 
-> You can add a screenshot here to showcase the UI.
+![Screenshot](Screenshot.png)
+
 
 ---
 
