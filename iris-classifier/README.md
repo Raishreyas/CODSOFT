@@ -118,7 +118,7 @@ iris-classifier/
 ## 👨‍💻 Author
 
 **Shreyas Rai**  
-[GitHub Profile](https://github.com/your-username)  
+[Linkedin Profile](https://www.linkedin.com/in/raishreyas/)
 [Live App](https://iris-classifier-ljr5.onrender.com)
 
 ---
@@ -131,7 +131,7 @@ This project is open-source under the [MIT License](https://choosealicense.com/l
 
 ## 🙏 Acknowledgments
 
-- UCI Machine Learning Repository – [Iris Dataset](https://archive.ics.uci.edu/ml/datasets/iris)
+- Kaggle – [Iris Dataset](https://www.kaggle.com/datasets/arshid/iris-flower-dataset)
 - Streamlit.io – for the awesome UI framework
 - Render.com – for free app hosting
 
